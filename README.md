@@ -1,4 +1,4 @@
-# Complete CI/CD (3 tier app) - (Pet Shop) 
+# Complete CI/CD (3 tier app)
 
 ------------------------------------------------
 Hello folks, we will be deploying a Petshop Java Based Application. We will be using Jenkins as a CICD tool and deploying our application on a Docker container and Kubernetes cluster.
